@@ -28,5 +28,9 @@
 
 ![88c88c183d7fd954eebd57612e5ebf8](https://github.com/user-attachments/assets/8720b6a8-0b7d-4f07-830f-90e81caac66d)
 
-5.待完成：获取到图片帧做回帖（待有时间）
+5.待完成：
+
+  获取到图片帧做回帖（待有时间）
+  
+  自动添加2秒语音再做裁剪(原项目bug)
 
