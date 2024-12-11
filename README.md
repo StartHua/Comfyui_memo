@@ -1,6 +1,6 @@
 # Comfyui_memo
 
-[memo](https://github.com/memoavatar/memo)
+原项目：[memo](https://github.com/memoavatar/memo)
 
 1.安装ffmpeg 下载配置环境变量。
 
